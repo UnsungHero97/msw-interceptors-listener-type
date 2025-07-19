@@ -10,3 +10,5 @@ msw-interceptors-listener-type $ npm run lint
 
 ✖ 1 problem (1 error, 0 warnings)
 ```
+
+<img width="1133" height="482" alt="Screenshot 2025-07-19 at 11 32 18 AM" src="https://github.com/user-attachments/assets/afd00c89-cea8-44b8-9200-1935b59e44c7" />
